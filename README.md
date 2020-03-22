@@ -1,4 +1,4 @@
 # django
 personal side project
 
-`python` `back-end`
+`python` `back-end` `django`
