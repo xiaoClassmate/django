@@ -1,4 +1,4 @@
 # django
-personal side project
-
+personal side project  
+CRUD with MySQL
 `python` `back-end` `django`
